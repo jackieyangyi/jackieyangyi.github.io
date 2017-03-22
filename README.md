@@ -1,6 +1,6 @@
 # ASP.NET MVC
 
-# .net core
+# DotNet core
 
 # Android and IOS
 
