@@ -4,7 +4,7 @@
 
 # Android and IOS
 
-#Hi,嗨，hello,...
+# Hi,嗨，hello,...
 
 
 ## Welcome to GitHub Pages
